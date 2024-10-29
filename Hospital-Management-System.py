@@ -172,7 +172,9 @@ class System:#Hospital System class to manage hospital records
       print(e)
 
 
-#Illustration
+#Illustration-
+
+#Initialize system
 system=System()
 
 #Adding patients and doctors
