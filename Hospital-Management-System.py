@@ -1,4 +1,6 @@
 
+
+#BBIT 2.2C ADMISSION: 167753- Clara Waithaka
 # A short description of the Hospital Management system
     #The Hospital Management System manages data related to:Doctors,Patients and data regarding consultation by applying Object-oriented programming concepts:Abstraction,Inheritance,Encapsulation and polymorphism
     #Person Class(Abstract class)It defines common attributes (name,age)and methods(get_details,get_name,get_age)that will be inherited by Patient and Doctor Class
